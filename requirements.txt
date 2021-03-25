@@ -96,7 +96,7 @@ pytest-platform-markers==0.1.0
 python-dateutil==2.6.1
 pythonds==1.2.1
 pytz==2017.2
-PyYAML==3.12
+PyYAML==5.4
 pyzmq==16.0.2
 qtconsole==4.3.1
 QtPy==1.3.1
