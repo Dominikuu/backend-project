@@ -4,7 +4,7 @@ arrow==0.13.0
 asn1crypto==0.24.0
 attrs==17.4.0
 Automat==0.7.0
-Babel==2.5.3
+Babel==2.9.1
 beautifulsoup4==4.6.0
 binaryornot==0.4.4
 bleach==2.1.1
